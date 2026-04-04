@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load Superstore data
-df = pd.read_excel('Sample - Superstore-2.xls', sheet_name='Orders')
+df = pd.read_excel('Sample - Superstore.xls', sheet_name='Orders')
 
 print(f"📊 Dataset: {df.shape[0]:,} orders")
 print(f"Total Sales: ${df['Sales'].sum():,.0f}")
