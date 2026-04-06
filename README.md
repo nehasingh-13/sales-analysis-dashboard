@@ -19,15 +19,15 @@ Analyze sales performance to identify top products, regions, and revenue trends 
 3. Profit vs sales comparison
 4. Customer purchase patterns
 
-## 💡 Business Insights (coming soon...)
-- Top 3 products drive X% revenue
-- Region Y underperforms
-- **Action**: Focus marketing on high-margin items
+## 💡 Business Insights
+- **Technology** drives the highest profit margin.
+- **Top 10 Products** are clearly identified for targeted marketing.
+- **Interactive Filtering**: Users can drill down into specific regional performance.
 
-## 📱 Visuals (coming soon...)
-[Screenshot of dashboard]
+## 📱 Visuals
+- View the fully interactive dashboard built with **Streamlit** by running `streamlit run app.py`.
 
 ## 📁 Files
-- `sales_data.csv` (dataset)
-- `eda.ipynb` (Python analysis - coming soon)
-- `dashboard.pbix` (Power BI - coming soon)
+- `Sample - Superstore.xls` (Sales dataset)
+- `eda.ipynb` (Interactive Jupyter Notebook for Exploratory Data Analysis)
+- `app.py` (Streamlit Python application for the interactive dashboard)
