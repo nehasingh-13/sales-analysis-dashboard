@@ -25,7 +25,8 @@ Analyze sales performance to identify top products, regions, and revenue trends 
 - **Interactive Filtering**: Users can drill down into specific regional performance.
 
 ## 📱 Visuals
-- View the fully interactive dashboard built with **Streamlit** by running `streamlit run app.py`.
+- 🌐 **[Click here to view the live Interactive Dashboard!](https://sales-analysis-dashboard-tqn6t9ob8qqw2j9sgycqd3.streamlit.app/)**
+- You can also run it locally manually by typing `streamlit run app.py` in your terminal.
 
 ## 📁 Files
 - `Sample - Superstore.xls` (Sales dataset)
